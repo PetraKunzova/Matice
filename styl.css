@@ -1,0 +1,57 @@
+/* 
+    Created on : 26. 12. 2021, 22:28:57
+    Author     : Petty
+*/
+
+body {
+    font-family:  Book Antiqua, serif;
+    font-size: 1.2em;
+    font-weight: bold; 
+    /*background-image: radial-gradient(rgb(250,250,210)73%, rgba(139,69,19,0.5));*/
+    background-image: radial-gradient(circle, rgb(250,250,210)60%, rgba(139,69,19,0.5));
+    margin: 0px;
+   }
+   
+      h1 {
+  color: #8B4513; 
+  text-align: center; 
+  font-family: Book Antiqua, serif; 
+  font-weight: bold; 
+  font-style: italic;
+  text-shadow: 4px 4px 7px #A52A2A; 
+ 
+}
+
+p {
+    font-family:  Book Antiqua, serif; 
+    text-align: center;
+}
+
+form {
+     margin: 100px 300px;
+}
+
+input[type="submit"] {
+    background: #FFFFE0;
+    color: brown;
+    font-family:  Book Antiqua, serif;
+    font-weight: bold;
+    font-size: 1.1em;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: 3px solid #228B22;
+}
+
+table {
+    margin: 100px 300px;
+    color: brown;
+    font-size: 1.2em;
+}
+
+tr {
+    color: #228B22;
+}
+
+td {
+    color: brown;
+}
