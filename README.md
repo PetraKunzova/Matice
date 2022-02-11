@@ -1,2 +1,2 @@
 # Matice
-Vícerozměrné pole dle zadání z formuláře a naplněné náhodnými čísly
+Vícerozměrné pole  o velikosti dle zadání uživatele ve formuláři, naplněné náhodnými čísly a  vypsané minimum a maximum z pole. 
