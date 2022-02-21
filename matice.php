@@ -15,7 +15,7 @@
         $minElement = PHP_INT_MAX;
         $imin = $imax = -1;
         $jmin = $jmax = -1;
-
+        
         //cyklus pro vytvoření pole 
         for ($i = 0; $i < $r; $i++) {
             for ($j = 0; $j < $s; $j++) {
